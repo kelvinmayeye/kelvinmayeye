@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm deeply passionate about Laravel development and building elegant web applications.<br>☕ Java is my go-to language for robust and scalable backend solutions. Ask me about my favorite Java frameworks!<br>📱 Flutter is my choice for crafting beautiful cross-platform mobile apps with a single codebase.<br> 🚴 When I'm not coding, you can find me exploring new bike trails and soaking in the outdoors.
+🚀 I'm deeply passionate about Laravel development and building elegant web applications.<br>☕ Java is my fallback language for robust and scalable backend solutions. Ask me about my favorite Java frameworks!<br>📱 Flutter is my choice for crafting beautiful cross-platform mobile apps with a single codebase.<br> 🚴 When I'm not coding, you can find me exploring new bike trails and soaking in the outdoors.
 
 
 ## 🌐 Socials:
